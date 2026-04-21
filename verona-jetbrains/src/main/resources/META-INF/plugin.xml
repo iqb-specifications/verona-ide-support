@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>dev.verona.jetbrains</id>
   <name>Verona</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <vendor email="team@example.com">Verona Team</vendor>
 
   <description><![CDATA[

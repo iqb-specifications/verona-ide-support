@@ -25,9 +25,9 @@ Verona adds JSON-friendly support for `*.vomd`, `*.vocs`, and `*.voud` files in 
 
 Download the packaged artifacts from the [GitHub Releases page](https://github.com/iqb-berlin/verona-ide-support/releases):
 
-- VS Code: `verona-vscode-1.0.0.vsix`
-- JetBrains: `verona-jetbrains-1.0.0.jar`
-- JetBrains: `verona-jetbrains-1.0.0.zip`
+- VS Code: `verona-vscode-1.0.1.vsix`
+- JetBrains: `verona-jetbrains-1.0.1.jar`
+- JetBrains: `verona-jetbrains-1.0.1.zip`
 
 ## Visual preview
 
