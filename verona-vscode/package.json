@@ -7,11 +7,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/iqb-berlin/verona-ide-support.git"
+    "url": "https://github.com/iqb-specifications/verona-ide-support.git"
   },
-  "homepage": "https://github.com/iqb-berlin/verona-ide-support",
+  "homepage": "https://github.com/iqb-specifications/verona-ide-support",
   "bugs": {
-    "url": "https://github.com/iqb-berlin/verona-ide-support/issues"
+    "url": "https://github.com/iqb-specifications/verona-ide-support/issues"
   },
   "engines": {
     "vscode": "^1.74.0"

@@ -1,7 +1,7 @@
 # Verona IDE Support
 
-[![CI](https://github.com/iqb-berlin/verona-ide-support/actions/workflows/ci.yml/badge.svg)](https://github.com/iqb-berlin/verona-ide-support/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/iqb-berlin/verona-ide-support?display_name=tag)](https://github.com/iqb-berlin/verona-ide-support/releases)
+[![CI](https://github.com/iqb-specifications/verona-ide-support/actions/workflows/ci.yml/badge.svg)](https://github.com/iqb-specifications/verona-ide-support/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/iqb-specifications/verona-ide-support?display_name=tag)](https://github.com/iqb-specifications/verona-ide-support/releases)
 [![License: MIT](https://img.shields.io/badge/license-MIT-0b4f6c.svg)](./LICENSE)
 
 ![Verona banner](./assets/verona-banner.svg)
@@ -23,7 +23,7 @@ Verona adds JSON-friendly support for `*.vomd`, `*.vocs`, and `*.voud` files in 
 
 ## Install
 
-Download the packaged artifacts from the [GitHub Releases page](https://github.com/iqb-berlin/verona-ide-support/releases):
+Download the packaged artifacts from the [GitHub Releases page](https://github.com/iqb-specifications/verona-ide-support/releases):
 
 - VS Code: `verona-vscode-1.0.1.vsix`
 - JetBrains: `verona-jetbrains-1.0.1.jar`
